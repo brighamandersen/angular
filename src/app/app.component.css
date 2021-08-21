@@ -1,0 +1,14 @@
+.container {
+  width: 90vw;
+  display: flex;
+  height: 600px;
+  border: 1px solid black;
+  background: rgb(238, 238, 238);
+}
+
+span.welcome {
+  font-weight: bold;
+  font-size: x-large;
+  color: navy;
+  padding-right: 1rem;
+}
