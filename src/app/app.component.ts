@@ -16,5 +16,5 @@ export class AppComponent {
     this.auth.logOut();
   }
 
-  val: string = 'world';
+  inputVal: string = 'world';
 }
